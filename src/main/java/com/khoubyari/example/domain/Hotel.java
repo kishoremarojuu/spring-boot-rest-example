@@ -28,6 +28,8 @@ public class Hotel {
     @Column()
     private int rating;
 
+private String testName1; 
+
     public Hotel() {
     }
 
