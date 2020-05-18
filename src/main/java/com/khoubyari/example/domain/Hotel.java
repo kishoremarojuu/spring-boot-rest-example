@@ -31,6 +31,8 @@ public class Hotel {
 private String testName1; 
 private String testName2; 
 private String testName3; 
+private String featureTestName4; 
+
 
     public Hotel() {
     }
