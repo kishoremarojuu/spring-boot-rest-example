@@ -34,6 +34,7 @@ private String testName3;
 private String featureTestName4; 
 private String featureTestName5; 
 private String featureTestName6; 
+private String featureTestName7; 
 
 
 
