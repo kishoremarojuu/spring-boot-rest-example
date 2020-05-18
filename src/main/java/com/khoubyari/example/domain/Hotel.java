@@ -29,6 +29,7 @@ public class Hotel {
     private int rating;
 
 private String testName1; 
+private String testName2; 
 
     public Hotel() {
     }
